@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+.container{
+    width: 500px;
+    background-color: rgba(0,0 ,0 , 0.04);
+    box-shadow: -5px 5px 7px 6px black;
+    padding: 25px;
+    margin: 60px auto;
+    text-align: center;
+    border-radius: 10px;
+}
+.abc{
+    margin-bottom: 40px;   
+}
+.abc1{
+    margin-bottom: 35px;
+}
+h1{
+    color: white;
+    margin-bottom: 10px;
+}
+.email{
+    width: 100%;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 8px auto;
+    
+}
+.password{
+    width: 100%;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 8px auto;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+.b1{
+    margin: 10px auto;
+    width: 100%;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #3398DA;
+    color: white;
+    
+}
+.b2{
+    font-size: 15px;
+    margin-top: 10px;
+    width: 100%;
+    padding: 6px;
+    background-color: #4167B1;
+    color: white;
+    border-radius: 5px;
+}
+.b3{ 
+    font-size: 15px;
+    margin-top: 15px;
+    width: 100%;
+    padding: 6px;
+    margin-left: 2px;
+    background-color:#E2306C ;
+    color: white;
+    border-radius: 5px;
+}
+.p1 {
+    margin-top: 15px;
+}
+/* span{
+    color: blueviolet;
+} */
+img{
+    width: 70px;
+    position: relative;
+    bottom: 70px;
+}
+.container1{
+    width: 500px;
+    background-color: rgba(0 ,0 ,0 , 0.04);
+    padding: 30px;
+    margin: 60px auto;
+    /* box-shadow: 0 0 3px 0; */
+    box-shadow: -4px 5px 7px 6px black;
+    text-align: center;
+    border-radius: 10px;
+   
+}
+p,.is{
+    color: white;
+    font-size: 18px;
+    margin-bottom: 10px;
+
+    
+}
+.fn ,.ln{
+    display: inline-block;
+    border-radius: 8px;
+    padding: 8px;
+    width: 49%;
+    margin-bottom: 10px;
+}
+.cp{
+    margin-top: 10px;
+    width: 100%;
+    padding: 8px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.b4{
+    margin-top: 15px;
+    width: 100%;
+    padding: 8px;
+    background: #3598DC;
+    border: none;
+    font-size: 18px;
+    color: white;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
